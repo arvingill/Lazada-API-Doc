@@ -9,6 +9,7 @@ En [中文](./README_CN.md)
 ### Product Detail Infomation
 
 [Success Response](./examples/success_item_detail.json)
+
 [Empty Product Data](./examples/success_item_detail_empty.json)
 
 
