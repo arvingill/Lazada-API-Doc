@@ -1,0 +1,14 @@
+{
+  "code": 0,
+  "credits": 0.005,
+  "result": {
+    "errorCode": {
+      "displayMessage": "item not found",
+      "key": "PDP_FAILED"
+    },
+    "notSuccess": true,
+    "repeated": false,
+    "retry": false
+  },
+  "tip": "You can read document or contact provider: https://www.idatariver.com/project/lazada-e-commerce-scraping-api-12fb"
+}

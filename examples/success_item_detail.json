@@ -1,0 +1,1407 @@
+{
+  "code": 0,
+  "credits": 0.005,
+  "result": {
+    "Breadcrumb": [
+      {
+        "title": "Handphone & Tablet",
+        "url": "https://www.lazada.co.id/beli-handphone-tablet/"
+      },
+      {
+        "title": "Feature Phones",
+        "url": "https://www.lazada.co.id/shop-feature-phones/"
+      },
+      {
+        "title": "OPPO A16 Termurah Garansi Toko ram 6/128GB, 8MP+13MP kamera 6.52 inches"
+      }
+    ],
+    "deliveryOptions": {
+      "13737050198": [
+        {
+          "badge": false,
+          "dataType": "delivery",
+          "deliveryWorkTimeMax": "2024-03-02T23:59+07:00[GMT+07:00]",
+          "deliveryWorkTimeMin": "2024-03-02T23:59+07:00[GMT+07:00]",
+          "description": "Untuk produk lokal, barang akan sampai dalam waktu 2-4 hari kerja. <br/>Biaya pengiriman disesuaikan dengan ukuran dan dimensi produk.<br/><br/><a href=\"https://www.lazada.co.id/helpcenter/shipping_delivery/#answer-faq-whatisshippingfee-ans\" target=\"_blank\">Selengkapnya</a>",
+          "duringTime": "Dijamin tiba Sab, 2 Mar.Kamu akan mendapatkan kompensasi berupa LazRewards sebesar Rp8.000 jika pengiriman terlambat",
+          "fee": "Rp9.000",
+          "feeValue": 9000,
+          "hasTip": true,
+          "title": "Prioritas 48H",
+          "type": "standard"
+        },
+        {
+          "badge": true,
+          "dataType": "service",
+          "description": "",
+          "feeValue": 0,
+          "hasTip": true,
+          "title": "Bayar di tempat berlaku",
+          "type": "COD"
+        }
+      ],
+      "13737050199": [
+        {
+          "badge": false,
+          "dataType": "delivery",
+          "deliveryWorkTimeMax": "2024-03-02T23:59+07:00[GMT+07:00]",
+          "deliveryWorkTimeMin": "2024-03-02T23:59+07:00[GMT+07:00]",
+          "description": "Untuk produk lokal, barang akan sampai dalam waktu 2-4 hari kerja. <br/>Biaya pengiriman disesuaikan dengan ukuran dan dimensi produk.<br/><br/><a href=\"https://www.lazada.co.id/helpcenter/shipping_delivery/#answer-faq-whatisshippingfee-ans\" target=\"_blank\">Selengkapnya</a>",
+          "duringTime": "Dijamin tiba Sab, 2 Mar.Kamu akan mendapatkan kompensasi berupa LazRewards sebesar Rp8.000 jika pengiriman terlambat",
+          "fee": "Rp9.000",
+          "feeValue": 9000,
+          "hasTip": true,
+          "title": "Prioritas 48H",
+          "type": "standard"
+        },
+        {
+          "badge": true,
+          "dataType": "service",
+          "description": "",
+          "feeValue": 0,
+          "hasTip": true,
+          "title": "Bayar di tempat berlaku",
+          "type": "COD"
+        }
+      ],
+      "13737050200": [
+        {
+          "badge": false,
+          "dataType": "delivery",
+          "deliveryWorkTimeMax": "2024-03-02T23:59+07:00[GMT+07:00]",
+          "deliveryWorkTimeMin": "2024-03-02T23:59+07:00[GMT+07:00]",
+          "description": "Untuk produk lokal, barang akan sampai dalam waktu 2-4 hari kerja. <br/>Biaya pengiriman disesuaikan dengan ukuran dan dimensi produk.<br/><br/><a href=\"https://www.lazada.co.id/helpcenter/shipping_delivery/#answer-faq-whatisshippingfee-ans\" target=\"_blank\">Selengkapnya</a>",
+          "duringTime": "Dijamin tiba Sab, 2 Mar.Kamu akan mendapatkan kompensasi berupa LazRewards sebesar Rp8.000 jika pengiriman terlambat",
+          "fee": "Rp9.000",
+          "feeValue": 9000,
+          "hasTip": true,
+          "title": "Prioritas 48H",
+          "type": "standard"
+        },
+        {
+          "badge": true,
+          "dataType": "service",
+          "description": "",
+          "feeValue": 0,
+          "hasTip": true,
+          "title": "Bayar di tempat berlaku",
+          "type": "COD"
+        }
+      ]
+    },
+    "disclaimers": [],
+    "elevator": {},
+    "flashSale": {},
+    "globalConfig": {
+      "apiForPC": {
+        "getDeliveryOptions": "//pdpdesc-m.lazada.co.id/getDeliveryOptions",
+        "getPage": "//pdpdesc-m.lazada.co.id/pcdetailSync",
+        "getRecommend": "//pdpdesc-m.lazada.co.id/recommend",
+        "getSkuData": "//pdpdesc-m.lazada.co.id/pcdetailAsync"
+      },
+      "atmosphereInfo": {
+        "13737050198": {
+          "chatIcon": "https://laz-img-cdn.alicdn.com/tfs/TB14FIGjwHqK1RjSZFPXXcwapXa-78-78.png",
+          "storeIcon": "https://laz-img-cdn.alicdn.com/tfs/TB1vfkMjrvpK1RjSZFqXXcXUVXa-78-78.png"
+        },
+        "13737050199": {
+          "chatIcon": "https://laz-img-cdn.alicdn.com/tfs/TB14FIGjwHqK1RjSZFPXXcwapXa-78-78.png",
+          "storeIcon": "https://laz-img-cdn.alicdn.com/tfs/TB1vfkMjrvpK1RjSZFqXXcXUVXa-78-78.png"
+        },
+        "13737050200": {
+          "chatIcon": "https://laz-img-cdn.alicdn.com/tfs/TB14FIGjwHqK1RjSZFPXXcwapXa-78-78.png",
+          "storeIcon": "https://laz-img-cdn.alicdn.com/tfs/TB1vfkMjrvpK1RjSZFqXXcXUVXa-78-78.png"
+        }
+      },
+      "currency": "IDR",
+      "env": "new env",
+      "facebookAppKey": "1477455072510375",
+      "host": "lazada-pdp-ns-s033048137217.rg-id.id137",
+      "isAPPLE": false,
+      "isTBC": false,
+      "lang": "in_ID",
+      "pvChecksum": "53732040",
+      "recommendParameter": "shop_id=6231981&category_id=42006401&item_id=7336022462&anonymous_id=64b19656-0eec-4c30-9d27-3513fc0396cb&is_ab=false&sku=7336022462_ID-13737050200&seller_id=401008224928&is_tbc=0&_=1709177868824&brand_id=124058447",
+      "robots": "noindex,follow",
+      "showHTBTips": false,
+      "showPurchaseTip": false,
+      "showSFOTips": false,
+      "showSKUSelect": false,
+      "showTBCBreadCrumb": true,
+      "sisUrl": "//www.lazada.co.id/shop/only-one-cell/?itemId=7336022462&channelSource=pdp",
+      "site": "ID",
+      "siteName": "Lazada",
+      "toastRule": {
+        "voucherPrice": {
+          "duration": 3,
+          "hit": true,
+          "intervalHours": 24,
+          "stayTime": 3
+        }
+      },
+      "viewedSFOUrl": "//pdpdesc-m.lazada.co.id/confirmMsg",
+      "voucherCollectApi": "mtop.lazada.promotion.voucher.spread",
+      "voucherListApi": "mtop.lazada.detail.getVouchers",
+      "voucherListParams": "timeStamp=1709177868824&itemId=7336022462&lzd=3F311BB630BF7494846CE5D16A2AE9EB91D65B703A12B2051D748DC31D338873563E76C0BFFDB04E0EB0C07651E49DE3334EF8F53AC1C1B90986EE0E2159F4C2C9510F28A440FEF3859CD5533EF919355E7A970176242DF85E7A970176242DF8&skuId=13737050200&checkCode=484c9f209c8749e1ff1c7490ea2943fa"
+    },
+    "guideApp": {
+      "bottomTxt": "Scan pakai HP kamu",
+      "description": "Dapatkan voucher gratis ongkir Rp 20 ribu khusus app",
+      "link": "https://www.lazada.co.id/products/oppo-a16-termurah-garansi-toko-ram-6128gb-8mp13mp-kamera-652-inches-i7336022462-s13737050200.html",
+      "logo": "https://img.alicdn.com/tfs/TB1f4HzFbH1gK0jSZFwXXc7aXXa-96-96.png"
+    },
+    "htmlRender": {
+      "msiteShare": {
+        "deepLink": "lazada://id/d?itemId=7336022462&ps=7336022462_ID-13737050200&skuId=13737050200",
+        "facebookFallbackValue": false,
+        "image": "//id-test-11.slatic.net/p/ed5f4f91c23a08d474fa11a57e8527db.png",
+        "meta": "<meta name=\"og:url\" content=\"https://www.lazada.co.id/products/oppo-a16-termurah-garansi-toko-ram-6128gb-8mp13mp-kamera-652-inches-i7336022462-s13737050200.html/\" /><meta name=\"og:title\" content=\"OPPO A16 Termurah Garansi Toko ram 6/128GB, 8MP+13MP kamera 6.52 inches\" /><meta name=\"og:type\" content=\"product\" /><meta name=\"og:description\" content=\"null\" /><meta name=\"og:image\" content=\"//id-test-11.slatic.net/p/ed5f4f91c23a08d474fa11a57e8527db.png\" />",
+        "showFacebookFallback": false,
+        "title": "OPPO A16 Termurah Garansi Toko ram 6/128GB, 8MP+13MP kamera 6.52 inches",
+        "type": "product",
+        "url": "https://www.lazada.co.id/products/oppo-a16-termurah-garansi-toko-ram-6128gb-8mp13mp-kamera-652-inches-i7336022462-s13737050200.html"
+      }
+    },
+    "installments": {
+      "13737050198": [
+        "Sampai dengan 12 bulan, dengan pembayaran Rp63.744 per bulan.",
+        "Sampai dengan 6 bulan, dengan pembayaran Rp127.487 per bulan.",
+        "Sampai dengan 3 bulan, dengan pembayaran Rp254.975 per bulan."
+      ],
+      "13737050199": [
+        "Sampai dengan 12 bulan, dengan pembayaran Rp63.744 per bulan.",
+        "Sampai dengan 6 bulan, dengan pembayaran Rp127.487 per bulan.",
+        "Sampai dengan 3 bulan, dengan pembayaran Rp254.975 per bulan."
+      ],
+      "13737050200": [
+        "Sampai dengan 12 bulan, dengan pembayaran Rp63.744 per bulan.",
+        "Sampai dengan 6 bulan, dengan pembayaran Rp127.487 per bulan.",
+        "Sampai dengan 3 bulan, dengan pembayaran Rp254.975 per bulan."
+      ]
+    },
+    "primaryKey": {
+      "defaultSkuId": "13737050200",
+      "fromShare": false,
+      "itemId": "7336022462",
+      "loadedSkuIds": [
+        "13737050200",
+        "13737050199",
+        "13737050198"
+      ],
+      "pageId": "7336022462",
+      "purchaseQuantity": 1,
+      "sellerId": "401008224928",
+      "skuId": "13737050200",
+      "skuNames": [
+        "Biru"
+      ],
+      "skuPath": {
+        "30113": "9985"
+      },
+      "skuTabPath": {}
+    },
+    "product": {
+      "brand": {
+        "name": "Tidak Ada Merek",
+        "suggestion": "Lebih banyak Feature Phones dari Tidak Ada Merek",
+        "suggestionUrl": "https://www.lazada.co.id/shop-feature-phones/jackanza-124058447/",
+        "url": "https://www.lazada.co.id/jackanza-124058447/"
+      },
+      "desc": "<article class=\"lzd-article\"><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span></span><img src=\"https://id-live-01.slatic.net/p/31110bec6f01ab5b6e95ba10d922232a.png\" style=\"width:500px;height:500px;display:inline;vertical-align:middle\"/><span></span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span></span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>- Welcome to Only One Cell!!</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>- Biasakan membaca deskripsi sebelum membeli</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>- ORDER = SETUJU ❗❗</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span></span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>• Semua Produk di etalase Ready dan Segel Toko </span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>• Garansi Toko 1 Tahun</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>• Bila ada kendala silahkan chat admin sebelum memberikan ulasan Negatif </span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>• Untuk Review Negatif atau Ratting Bintang di bawah 5 (GARANSI HANGUS)</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>• Hanya menerima Retur ( BUKAN REFUND DANA)</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>• Refund hanya akan kami jika ada masalah tertentu</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>• Produk ori cina</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>• Bonus charger, kabel, case silikon, antigores sudah di ditempel dll (Bonus Tidak Garansi)</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span></span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Note: * untuk pengajuan refund barang harus sertakan video unboxing jelas kelihatan 6 sisi paket dengan jelas, jika tidak jelas makanya pengajuan akan ditolak otomatis*</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span></span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Sepecifikasi</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Memori</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>4 GB + 64 GB</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>6 GB + 128 GB</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Tipe RAM: LPDDR4x @ 1867 MHz 2 × 16-bit (3 GB + 32 GB) / LPDDR4x @ 2133 MHz 2 × 16-bit (4 GB + 64 GB)</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Tipe ROM: eMMC 5.1</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Penyimpanan Eksternal: Didukung</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Versi USB: USB 2.0</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>USB OTG: Didukung</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Layar</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Ukuran: 6,52\" (16,55 cm)</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Rasio Layar: 88,7%</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Resolusi: 720x1600 (HD+)</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Kecepatan Penyegaran: 60Hz</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Kecepatan Sampel Sentuh: 60Hz</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Gamut Warna: 71% NTSC (Tipikal)</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Kerapatan Piksel: 269 PPI</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Rasio Kontras: 1500:1 (Tipikal)</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Kecerahan: 480 nits (Tipikal)</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Panel: LCD</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Kaca Pelindung: Bahan lembaran (PC + PMMA)</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span></span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Kamera:</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Belakang</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Kamera utama 13MP: f/2.2; FOV 80°; lensa 5P; AF</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Kamera Mono 2MP: f/2.4; FOV 88,8°; lensa 3P; FF</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Kamera Makro 2MP: f/2.4; FOV 88,8°; lensa 3P; FF</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Depan</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>8MP (f/2.0); FOV79°; Lensa 5P</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Batterai</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>4890 mAh/18,92 Wh (Min)</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>5000 mAh/19.35 Wh (Tipikal)</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span></span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>Garansi Tidak Berlaku Apabila:</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>• Barang sudah dibongkar (TIDAK BERSEGEL) </span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>• Sudah pernah service ditempat lain </span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>• Human Error ( JATUH , TERBAKAR ATAU KENA AIR )</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>• Review Negatif atau Ratting Bintang dibawah 5 ( GARANSI HANGUS )</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span></span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>*Welcome Reseller dan Dropship*</span></p><p style=\"line-height:1.7;text-align:left;text-indent:0;margin-left:0;margin-top:0;margin-bottom:0\"><span>✨Happy Shopping✨</span></p></article>",
+      "link": "https://www.lazada.co.id/products/oppo-a16-termurah-garansi-toko-ram-6128gb-8mp13mp-kamera-652-inches-i7336022462-s13737050200.html",
+      "rating": {
+        "score": 4.8,
+        "total": 1324
+      },
+      "rightImgRatio": 1.9,
+      "title": "OPPO A16 Termurah Garansi Toko ram 6/128GB, 8MP+13MP kamera 6.52 inches"
+    },
+    "productOption": {
+      "dnr": false,
+      "options": [
+        {
+          "image": "//id-test-11.slatic.net/p/76e52766576b84f4a28de85ffdd5597d.png",
+          "path": "30113:149"
+        },
+        {
+          "image": "//id-test-11.slatic.net/p/301227d68408dabf7117617cd9e7ef77.png",
+          "path": "30113:37689"
+        },
+        {
+          "image": "//id-test-11.slatic.net/p/ed5f4f91c23a08d474fa11a57e8527db.png",
+          "path": "30113:9985"
+        }
+      ],
+      "skuBase": {
+        "properties": [
+          {
+            "name": "color_family",
+            "needLabel": false,
+            "pid": "30113",
+            "type": "0",
+            "values": [
+              {
+                "image": "//id-test-11.slatic.net/p/76e52766576b84f4a28de85ffdd5597d.png",
+                "name": "Hitam",
+                "vid": "149"
+              },
+              {
+                "image": "//id-test-11.slatic.net/p/301227d68408dabf7117617cd9e7ef77.png",
+                "name": "Putih",
+                "vid": "37689"
+              },
+              {
+                "image": "//id-test-11.slatic.net/p/ed5f4f91c23a08d474fa11a57e8527db.png",
+                "name": "Biru",
+                "vid": "9985"
+              }
+            ]
+          }
+        ],
+        "skus": [
+          {
+            "cartItemId": "7336022462",
+            "cartSkuId": "13737050198",
+            "innerSkuId": "7336022462_ID-13737050198",
+            "itemId": "7336022462",
+            "pageId": "7336022462",
+            "pagePath": "oppo-a16-termurah-garansi-toko-ram-6128gb-8mp13mp-kamera-652-inches-i7336022462-s13737050198.html",
+            "propPath": "30113:149",
+            "requestParams": "itemId=7336022462&sellerId=401008224928&skuId=13737050198",
+            "sellerId": "401008224928",
+            "skuId": "13737050198"
+          },
+          {
+            "cartItemId": "7336022462",
+            "cartSkuId": "13737050199",
+            "innerSkuId": "7336022462_ID-13737050199",
+            "itemId": "7336022462",
+            "pageId": "7336022462",
+            "pagePath": "oppo-a16-termurah-garansi-toko-ram-6128gb-8mp13mp-kamera-652-inches-i7336022462-s13737050199.html",
+            "propPath": "30113:37689",
+            "requestParams": "itemId=7336022462&sellerId=401008224928&skuId=13737050199",
+            "sellerId": "401008224928",
+            "skuId": "13737050199"
+          },
+          {
+            "cartItemId": "7336022462",
+            "cartSkuId": "13737050200",
+            "innerSkuId": "7336022462_ID-13737050200",
+            "itemId": "7336022462",
+            "pageId": "7336022462",
+            "pagePath": "oppo-a16-termurah-garansi-toko-ram-6128gb-8mp13mp-kamera-652-inches-i7336022462-s13737050200.html",
+            "propPath": "30113:9985",
+            "requestParams": "itemId=7336022462&sellerId=401008224928&skuId=13737050200",
+            "sellerId": "401008224928",
+            "skuId": "13737050200"
+          }
+        ]
+      }
+    },
+    "promotionTags": {
+      "data": {
+        "13737050198": [
+          {
+            "description": "dengan minimum pembelian Rp600.000 dari <a href=\"https://www.lazada.co.id/shop/only-one-cell/?itemId=7336022462&channelSource=pdp\">Only One Cell</a>",
+            "name": "Belanja Rp600.000 ",
+            "products": [],
+            "title": "Voucher",
+            "type": "1",
+            "utKey": "voucher"
+          }
+        ],
+        "13737050199": [
+          {
+            "description": "dengan minimum pembelian Rp600.000 dari <a href=\"https://www.lazada.co.id/shop/only-one-cell/?itemId=7336022462&channelSource=pdp\">Only One Cell</a>",
+            "name": "Belanja Rp600.000 ",
+            "products": [],
+            "title": "Voucher",
+            "type": "1",
+            "utKey": "voucher"
+          }
+        ],
+        "13737050200": [
+          {
+            "description": "dengan minimum pembelian Rp600.000 dari <a href=\"https://www.lazada.co.id/shop/only-one-cell/?itemId=7336022462&channelSource=pdp\">Only One Cell</a>",
+            "name": "Belanja Rp600.000 ",
+            "products": [],
+            "title": "Voucher",
+            "type": "1",
+            "utKey": "voucher"
+          }
+        ]
+      },
+      "limit": -1
+    },
+    "qualification": {
+      "mainPageInfo": {
+        "title": "Kualifikasi"
+      },
+      "popPageInfo": {
+        "contents": [
+          {
+            "codeTitle": "Kode Lisensi",
+            "typeContent": "Nomor Sertifikat Perangkat Telekomunikasi (MOCI)",
+            "typeTitle": "Tipe Lisensi"
+          }
+        ],
+        "title": "Kualifikasi"
+      }
+    },
+    "recommendSkus": {},
+    "review": {
+      "paging": {
+        "currentPage": 1,
+        "totalItems": 1324,
+        "totalPages": 1
+      },
+      "params": {
+        "itemId": "7336022462",
+        "source": "pdp"
+      },
+      "product": {},
+      "ratings": {
+        "average": 4.8,
+        "rateCount": 1324,
+        "reviewCount": 1324,
+        "scores": [
+          1174,
+          72,
+          29,
+          14,
+          35
+        ]
+      },
+      "reportReasons": [],
+      "reviews": [
+        {
+          "canEdit": false,
+          "helpful": true,
+          "images": [
+            {
+              "legal": true,
+              "sort": 0,
+              "status": "approved",
+              "url": "https://lzd-u.slatic.net/0b588132587549a983c6996de3a2316c_af6d1a870da845808bc1fcb67706d2d7.jpg"
+            },
+            {
+              "legal": true,
+              "sort": 1,
+              "status": "approved",
+              "url": "https://lzd-u.slatic.net/5e4b8665b798498b8c81b137654a67ff_5f85001f7db04cfda26a8034307d0363.jpg"
+            },
+            {
+              "legal": true,
+              "sort": 2,
+              "status": "approved",
+              "url": "https://lzd-u.slatic.net/0b588132587549a983c6996de3a2316c_3397ce0000464eea84974a1ca59a09b3.jpg"
+            }
+          ],
+          "isPurchased": true,
+          "itemId": 7336022462,
+          "likeCount": 46,
+          "rating": 5,
+          "replies": [
+            {
+              "isFollowUp": false,
+              "likeCount": 0,
+              "reviewContent": "Hallo kaka💓, Terima kasih telah berbelanja ditoko kami!! pemberian ulasan & ratg baik kak sangat bermakna untuk toko kami, Jika ada kendala silahkan langsung chat admin kami y kaka, Semoga sehat selalu dan lancar rejeki kak💓. Ditunggu orderan berikutnya y kak💓💓💓",
+              "reviewRateId": 1150544708822462,
+              "reviewTime": "12  bulan lalu\r\n",
+              "reviewerName": "Lazada Guest"
+            }
+          ],
+          "reviewContent": "sangat Puas ..Terima kasih semuanya amnah packingnya mantul....",
+          "reviewRateId": 1149641398022462,
+          "reviewTime": "28 Mar 2023",
+          "reviewer": "I***.",
+          "skuInfo": "color_family:Hitam"
+        },
+        {
+          "canEdit": false,
+          "helpful": true,
+          "images": [
+            {
+              "legal": true,
+              "sort": 0,
+              "status": "approved",
+              "url": "https://lzd-u.slatic.net/f3f6aed4c8304be9bcea19290db382f8_ae18e752eddf4c5ab94bed6d1a3281a3.jpg"
+            },
+            {
+              "legal": true,
+              "sort": 1,
+              "status": "approved",
+              "url": "https://lzd-u.slatic.net/f3f6aed4c8304be9bcea19290db382f8_05130416854d4a67aaa57f9e9a681a1a.jpg"
+            },
+            {
+              "legal": true,
+              "sort": 2,
+              "status": "approved",
+              "url": "https://lzd-u.slatic.net/f3f6aed4c8304be9bcea19290db382f8_60576d8b6cd34abc80b00fcb8c1a0008.jpg"
+            },
+            {
+              "legal": true,
+              "sort": 3,
+              "status": "approved",
+              "url": "https://lzd-u.slatic.net/f3f6aed4c8304be9bcea19290db382f8_373eb6dda3be4db7b37281b3f46a87b1.jpg"
+            }
+          ],
+          "isPurchased": true,
+          "itemId": 7336022462,
+          "likeCount": 16,
+          "rating": 5,
+          "reviewContent": "Alhamdulillah ini benar-benar nyata🤭baru kali pertama beli hape online jadi ada rasa waswas ketakutan😅 takut tidak sesuai ekspektasi ternyata beneran Hapenya ori😍🥰tokonya sangat Amanah masya Allah.... sukses sellu thank's reseller 🙏🙏jangan ragu belanja di toko ini Terimakasih Lazada🙏💕mantaf jiwa👍👍",
+          "reviewRateId": 1313883664822462,
+          "reviewTime": "17 Des 2023",
+          "reviewer": "0***7",
+          "skuInfo": "color_family:Hitam"
+        },
+        {
+          "canEdit": false,
+          "helpful": true,
+          "images": [
+            {
+              "legal": true,
+              "sort": 0,
+              "status": "approved",
+              "url": "https://lzd-u.slatic.net/04502f2bec4a4ad6acf2471d10679dd2_10a61dd4dcc44cf6a7bb0d758dda4470.jpg"
+            }
+          ],
+          "isPurchased": true,
+          "itemId": 7336022462,
+          "likeCount": 9,
+          "rating": 5,
+          "reviewContent": "cukup puas,\npecking rapi,,\nmudah2an barang awet,,\nkurir ok,,",
+          "reviewRateId": 1277546885122462,
+          "reviewTime": "05 Nov 2023",
+          "reviewer": "E***.",
+          "skuInfo": "color_family:Putih"
+        },
+        {
+          "avatar": "",
+          "canEdit": false,
+          "helpful": true,
+          "images": [
+            {
+              "legal": true,
+              "sort": 0,
+              "status": "approved",
+              "url": "https://lzd-u.slatic.net/0e3f4ceeca9444bab2137dca2d87ded8_188cbba2cced4a338fc259164bdac90a.jpg"
+            },
+            {
+              "legal": true,
+              "sort": 1,
+              "status": "approved",
+              "url": "https://lzd-u.slatic.net/04fa6c345f3c4efb8cc33ea3fc30d4a5_bfb1c72e213d4efc944dbd35fd56b953.jpg"
+            },
+            {
+              "legal": true,
+              "sort": 2,
+              "status": "approved",
+              "url": "https://lzd-u.slatic.net/04fa6c345f3c4efb8cc33ea3fc30d4a5_c7a6663fb46e438295177d27885ae073.jpg"
+            }
+          ],
+          "isPurchased": true,
+          "itemId": 7336022462,
+          "likeCount": 8,
+          "rating": 5,
+          "replies": [
+            {
+              "isFollowUp": false,
+              "likeCount": 0,
+              "reviewContent": "Hallo kaka💓, Terima kasih telah berbelanja ditoko kami!! pemberian ulasan & rating baik kak sangat bermakna untuk toko kami, Jika ada kendala silahkan langsung chat admin kami y kaka, Semoga sehat selalu dan lancar rejeki kak💓. Ditunggu orderan berikutnya y kak💓💓💓",
+              "reviewRateId": 1229508785422462,
+              "reviewTime": "7  bulan lalu\r\n",
+              "reviewerName": "Lazada Guest"
+            }
+          ],
+          "reviewContent": "alhamdulillah bagus, sya sangat suka...",
+          "reviewRateId": 1229130157722462,
+          "reviewTime": "15 Agu 2023",
+          "reviewer": "Leli S.",
+          "skuInfo": "color_family:Hitam"
+        },
+        {
+          "avatar": "https://lzd-live-id-member.oss-ap-southeast-1.aliyuncs.com/3acce5cfc88d4bfea6aade11ec1cbfb1_9a144d60882e4b718f1cc1b0452ffcf2.jpg",
+          "canEdit": false,
+          "helpful": true,
+          "images": [
+            {
+              "legal": true,
+              "sort": 0,
+              "status": "approved",
+              "url": "https://lzd-u.slatic.net/a8954aa8ca7b48b499d81a20ebfbc179_dcc6feee15074f24ab5cb25f12ff4a97.jpg"
+            },
+            {
+              "legal": true,
+              "sort": 1,
+              "status": "approved",
+              "url": "https://lzd-u.slatic.net/a8954aa8ca7b48b499d81a20ebfbc179_ad62d6897e0a4dadb93b6373183f01db.jpg"
+            },
+            {
+              "legal": true,
+              "sort": 2,
+              "status": "approved",
+              "url": "https://lzd-u.slatic.net/a8954aa8ca7b48b499d81a20ebfbc179_03da87d64ca64c95afb6c36bc92446bf.jpg"
+            },
+            {
+              "legal": true,
+              "sort": 3,
+              "status": "approved",
+              "url": "https://lzd-u.slatic.net/a8954aa8ca7b48b499d81a20ebfbc179_3652ac80235a48cbbf9863727fd483f0.jpg"
+            },
+            {
+              "legal": true,
+              "sort": 4,
+              "status": "approved",
+              "url": "https://lzd-u.slatic.net/a8954aa8ca7b48b499d81a20ebfbc179_ec16255329dc4bd899267250352f6ed4.jpg"
+            }
+          ],
+          "isPurchased": true,
+          "itemId": 7336022462,
+          "likeCount": 23,
+          "rating": 5,
+          "replies": [
+            {
+              "isFollowUp": false,
+              "likeCount": 0,
+              "reviewContent": "Hallo kaka💓, Terima kasih telah berbelanja ditoko kami!! pemberian ulasan & rating baik kak sangat bermakna untuk toko kami, Jika ada kendala silahkan langsung chat admin kami y kaka, Semoga sehat selalu dan lancar rejeki kak💓. Ditunggu orderan berikutnya y kak💓💓💓",
+              "reviewRateId": 1229104768022462,
+              "reviewTime": "7  bulan lalu\r\n",
+              "reviewerName": "Lazada Guest"
+            }
+          ],
+          "reviewContent": "mantap suda ke dua kalinya aku pesan disini tidak mengcwakan mantap deh trimakasih",
+          "reviewRateId": 1227076410822462,
+          "reviewTime": "12 Agu 2023",
+          "reviewer": "sharul A.",
+          "skuInfo": "color_family:Hitam"
+        }
+      ]
+    },
+    "seller": {
+      "chatResponsiveRate": {
+        "labelText": "Chat Dibalas",
+        "value": "95%"
+      },
+      "chatUrl": "https://pages.lazada.co.id/wow/i/id/im/chat?brandId=124058447",
+      "hideAllMetrics": false,
+      "imEnable": true,
+      "imUserId": "401008224928",
+      "name": "Only One Cell",
+      "newSeller": false,
+      "percentRate": "93%",
+      "positiveSellerRating": {
+        "labelText": "Rating Toko",
+        "value": "93%"
+      },
+      "rate": 0.93,
+      "rateLevel": 3,
+      "sellerId": "401008224928",
+      "shipOnTime": {
+        "labelText": "Pengiriman Tepat Waktu",
+        "value": "100%"
+      },
+      "shopId": 6231981,
+      "size": 5,
+      "time": 11,
+      "type": "4",
+      "unit": "bulan",
+      "url": "//www.lazada.co.id/shop/only-one-cell/?itemId=7336022462&channelSource=pdp"
+    },
+    "seo": {},
+    "skuGalleries": {
+      "0": [
+        {
+          "itemLevel": true,
+          "poster": "//id-test-11.slatic.net/p/1e6e8bc956cbfa64811f730e4dfca0ff.png",
+          "src": "//id-test-11.slatic.net/p/1e6e8bc956cbfa64811f730e4dfca0ff.png",
+          "type": "img"
+        },
+        {
+          "itemLevel": true,
+          "poster": "//id-test-11.slatic.net/p/f6cd13adce9cedb8cf66925f7fb96345.jpg",
+          "src": "//id-test-11.slatic.net/p/f6cd13adce9cedb8cf66925f7fb96345.jpg",
+          "type": "img"
+        },
+        {
+          "itemLevel": true,
+          "poster": "//id-test-11.slatic.net/p/8eefb58e89f84378b2dab887d48818ac.jpg",
+          "src": "//id-test-11.slatic.net/p/8eefb58e89f84378b2dab887d48818ac.jpg",
+          "type": "img"
+        },
+        {
+          "itemLevel": true,
+          "poster": "//id-test-11.slatic.net/p/abf9911a1f3007175b35bc368827a8c6.jpg",
+          "src": "//id-test-11.slatic.net/p/abf9911a1f3007175b35bc368827a8c6.jpg",
+          "type": "img"
+        },
+        {
+          "itemLevel": true,
+          "poster": "//id-test-11.slatic.net/p/4bbf2e823dca26ba48e9ce2a56e48c52.jpg",
+          "src": "//id-test-11.slatic.net/p/4bbf2e823dca26ba48e9ce2a56e48c52.jpg",
+          "type": "img"
+        },
+        {
+          "itemLevel": false,
+          "poster": "//id-test-11.slatic.net/p/ed5f4f91c23a08d474fa11a57e8527db.png",
+          "src": "//id-test-11.slatic.net/p/ed5f4f91c23a08d474fa11a57e8527db.png",
+          "type": "img"
+        }
+      ],
+      "13737050198": [
+        {
+          "itemLevel": true,
+          "poster": "//id-test-11.slatic.net/p/1e6e8bc956cbfa64811f730e4dfca0ff.png",
+          "src": "//id-test-11.slatic.net/p/1e6e8bc956cbfa64811f730e4dfca0ff.png",
+          "type": "img"
+        },
+        {
+          "itemLevel": true,
+          "poster": "//id-test-11.slatic.net/p/f6cd13adce9cedb8cf66925f7fb96345.jpg",
+          "src": "//id-test-11.slatic.net/p/f6cd13adce9cedb8cf66925f7fb96345.jpg",
+          "type": "img"
+        },
+        {
+          "itemLevel": true,
+          "poster": "//id-test-11.slatic.net/p/8eefb58e89f84378b2dab887d48818ac.jpg",
+          "src": "//id-test-11.slatic.net/p/8eefb58e89f84378b2dab887d48818ac.jpg",
+          "type": "img"
+        },
+        {
+          "itemLevel": true,
+          "poster": "//id-test-11.slatic.net/p/abf9911a1f3007175b35bc368827a8c6.jpg",
+          "src": "//id-test-11.slatic.net/p/abf9911a1f3007175b35bc368827a8c6.jpg",
+          "type": "img"
+        },
+        {
+          "itemLevel": true,
+          "poster": "//id-test-11.slatic.net/p/4bbf2e823dca26ba48e9ce2a56e48c52.jpg",
+          "src": "//id-test-11.slatic.net/p/4bbf2e823dca26ba48e9ce2a56e48c52.jpg",
+          "type": "img"
+        },
+        {
+          "itemLevel": false,
+          "poster": "//id-test-11.slatic.net/p/76e52766576b84f4a28de85ffdd5597d.png",
+          "src": "//id-test-11.slatic.net/p/76e52766576b84f4a28de85ffdd5597d.png",
+          "type": "img"
+        }
+      ],
+      "13737050199": [
+        {
+          "itemLevel": true,
+          "poster": "//id-test-11.slatic.net/p/1e6e8bc956cbfa64811f730e4dfca0ff.png",
+          "src": "//id-test-11.slatic.net/p/1e6e8bc956cbfa64811f730e4dfca0ff.png",
+          "type": "img"
+        },
+        {
+          "itemLevel": true,
+          "poster": "//id-test-11.slatic.net/p/f6cd13adce9cedb8cf66925f7fb96345.jpg",
+          "src": "//id-test-11.slatic.net/p/f6cd13adce9cedb8cf66925f7fb96345.jpg",
+          "type": "img"
+        },
+        {
+          "itemLevel": true,
+          "poster": "//id-test-11.slatic.net/p/8eefb58e89f84378b2dab887d48818ac.jpg",
+          "src": "//id-test-11.slatic.net/p/8eefb58e89f84378b2dab887d48818ac.jpg",
+          "type": "img"
+        },
+        {
+          "itemLevel": true,
+          "poster": "//id-test-11.slatic.net/p/abf9911a1f3007175b35bc368827a8c6.jpg",
+          "src": "//id-test-11.slatic.net/p/abf9911a1f3007175b35bc368827a8c6.jpg",
+          "type": "img"
+        },
+        {
+          "itemLevel": true,
+          "poster": "//id-test-11.slatic.net/p/4bbf2e823dca26ba48e9ce2a56e48c52.jpg",
+          "src": "//id-test-11.slatic.net/p/4bbf2e823dca26ba48e9ce2a56e48c52.jpg",
+          "type": "img"
+        },
+        {
+          "itemLevel": false,
+          "poster": "//id-test-11.slatic.net/p/301227d68408dabf7117617cd9e7ef77.png",
+          "src": "//id-test-11.slatic.net/p/301227d68408dabf7117617cd9e7ef77.png",
+          "type": "img"
+        }
+      ],
+      "13737050200": [
+        {
+          "itemLevel": true,
+          "poster": "//id-test-11.slatic.net/p/1e6e8bc956cbfa64811f730e4dfca0ff.png",
+          "src": "//id-test-11.slatic.net/p/1e6e8bc956cbfa64811f730e4dfca0ff.png",
+          "type": "img"
+        },
+        {
+          "itemLevel": true,
+          "poster": "//id-test-11.slatic.net/p/f6cd13adce9cedb8cf66925f7fb96345.jpg",
+          "src": "//id-test-11.slatic.net/p/f6cd13adce9cedb8cf66925f7fb96345.jpg",
+          "type": "img"
+        },
+        {
+          "itemLevel": true,
+          "poster": "//id-test-11.slatic.net/p/8eefb58e89f84378b2dab887d48818ac.jpg",
+          "src": "//id-test-11.slatic.net/p/8eefb58e89f84378b2dab887d48818ac.jpg",
+          "type": "img"
+        },
+        {
+          "itemLevel": true,
+          "poster": "//id-test-11.slatic.net/p/abf9911a1f3007175b35bc368827a8c6.jpg",
+          "src": "//id-test-11.slatic.net/p/abf9911a1f3007175b35bc368827a8c6.jpg",
+          "type": "img"
+        },
+        {
+          "itemLevel": true,
+          "poster": "//id-test-11.slatic.net/p/4bbf2e823dca26ba48e9ce2a56e48c52.jpg",
+          "src": "//id-test-11.slatic.net/p/4bbf2e823dca26ba48e9ce2a56e48c52.jpg",
+          "type": "img"
+        },
+        {
+          "itemLevel": false,
+          "poster": "//id-test-11.slatic.net/p/ed5f4f91c23a08d474fa11a57e8527db.png",
+          "src": "//id-test-11.slatic.net/p/ed5f4f91c23a08d474fa11a57e8527db.png",
+          "type": "img"
+        }
+      ]
+    },
+    "skuInfos": {
+      "0": {
+        "categoryId": "42006401",
+        "dataLayer": {
+          "brand_id": "124058447",
+          "brand_name": "Tidak Ada Merek",
+          "core": {
+            "country": "ID",
+            "currencyCode": "IDR",
+            "language": "in",
+            "layoutType": "desktop"
+          },
+          "page": {
+            "regCategoryId": "",
+            "xParams": "_p_typ=pdp&_p_ispdp=1&_p_item=7336022462_ID-13737050200&_p_prod=7336022462&_p_sku=13737050200&_p_slr=401008224928"
+          },
+          "pagetype": "pdp",
+          "pdt_category": [
+            "Handphone & Tablet",
+            "Feature Phones"
+          ],
+          "pdt_discount": "-68%",
+          "pdt_name": "OPPO A16 Termurah Garansi Toko ram 6/128GB, 8MP+13MP kamera 6.52 inches",
+          "pdt_photo": "//id-test-11.slatic.net/p/ed5f4f91c23a08d474fa11a57e8527db.png",
+          "pdt_price": "Rp2.398.000",
+          "pdt_simplesku": 13737050200,
+          "pdt_sku": 7336022462,
+          "seller_name": "Only One Cell",
+          "supplier_id": 401008224928,
+          "v_voya": 1
+        },
+        "image": "//id-test-11.slatic.net/p/ed5f4f91c23a08d474fa11a57e8527db.png",
+        "inWishlist": false,
+        "itemId": "7336022462",
+        "operation": {
+          "disable": false,
+          "operationWeight": 6,
+          "text": "Tambah ke Troli",
+          "type": "default"
+        },
+        "operations": [
+          {
+            "disable": false,
+            "operationWeight": 2,
+            "text": "Beli Sekarang",
+            "type": "buyNow",
+            "url": "https://checkout.lazada.co.id/shipping"
+          },
+          {
+            "disable": false,
+            "operationWeight": 6,
+            "text": "Tambah ke Troli",
+            "type": "default"
+          }
+        ],
+        "preSaleTag": false,
+        "price": {
+          "discount": "-68%",
+          "originalPrice": {
+            "text": "Rp2.398.000",
+            "value": 2398000
+          },
+          "salePrice": {
+            "text": "Rp764.924",
+            "value": 764924
+          },
+          "useOldPriceDisplayLogic": false
+        },
+        "promotionTopBannerUrl": "https://lzd-img-global.slatic.net/us/lazgcp/143bc58e-ec33-496d-94d8-895ae17d7e27_ALL-480-72.jpg#width=480&height=72",
+        "quantity": {
+          "limit": {
+            "max": 5,
+            "min": 1
+          },
+          "type": "default"
+        },
+        "quantityList": [
+          {
+            "limit": {
+              "max": 5,
+              "min": 1
+            },
+            "type": "default"
+          }
+        ],
+        "sellerId": "401008224928",
+        "skuId": "13737050200",
+        "stock": 804,
+        "stockList": [
+          {
+            "stoock": 804,
+            "type": "default"
+          }
+        ]
+      },
+      "13737050198": {
+        "categoryId": "42006401",
+        "dataLayer": {
+          "brand_id": "124058447",
+          "brand_name": "Tidak Ada Merek",
+          "core": {
+            "country": "ID",
+            "currencyCode": "IDR",
+            "language": "in",
+            "layoutType": "desktop"
+          },
+          "page": {
+            "regCategoryId": "",
+            "xParams": "_p_typ=pdp&_p_ispdp=1&_p_item=7336022462_ID-13737050198&_p_prod=7336022462&_p_sku=13737050198&_p_slr=401008224928"
+          },
+          "pagetype": "pdp",
+          "pdt_category": [
+            "Handphone & Tablet",
+            "Feature Phones"
+          ],
+          "pdt_discount": "-68%",
+          "pdt_name": "OPPO A16 Termurah Garansi Toko ram 6/128GB, 8MP+13MP kamera 6.52 inches",
+          "pdt_photo": "//id-test-11.slatic.net/p/76e52766576b84f4a28de85ffdd5597d.png",
+          "pdt_price": "Rp2.398.000",
+          "pdt_simplesku": 13737050198,
+          "pdt_sku": 7336022462,
+          "seller_name": "Only One Cell",
+          "supplier_id": 401008224928,
+          "v_voya": 1
+        },
+        "image": "//id-test-11.slatic.net/p/76e52766576b84f4a28de85ffdd5597d.png",
+        "inWishlist": false,
+        "itemId": "7336022462",
+        "operation": {
+          "disable": false,
+          "operationWeight": 6,
+          "text": "Tambah ke Troli",
+          "type": "default"
+        },
+        "operations": [
+          {
+            "disable": false,
+            "operationWeight": 2,
+            "text": "Beli Sekarang",
+            "type": "buyNow",
+            "url": "https://checkout.lazada.co.id/shipping"
+          },
+          {
+            "disable": false,
+            "operationWeight": 6,
+            "text": "Tambah ke Troli",
+            "type": "default"
+          }
+        ],
+        "preSaleTag": false,
+        "price": {
+          "discount": "-68%",
+          "originalPrice": {
+            "text": "Rp2.398.000",
+            "value": 2398000
+          },
+          "salePrice": {
+            "text": "Rp764.924",
+            "value": 764924
+          },
+          "useOldPriceDisplayLogic": false
+        },
+        "promotionTopBannerUrl": "https://lzd-img-global.slatic.net/us/lazgcp/143bc58e-ec33-496d-94d8-895ae17d7e27_ALL-480-72.jpg#width=480&height=72",
+        "quantity": {
+          "limit": {
+            "max": 5,
+            "min": 1
+          },
+          "type": "default"
+        },
+        "quantityList": [
+          {
+            "limit": {
+              "max": 5,
+              "min": 1
+            },
+            "type": "default"
+          }
+        ],
+        "sellerId": "401008224928",
+        "skuId": "13737050198",
+        "stock": 758,
+        "stockList": [
+          {
+            "stoock": 758,
+            "type": "default"
+          }
+        ]
+      },
+      "13737050199": {
+        "categoryId": "42006401",
+        "dataLayer": {
+          "brand_id": "124058447",
+          "brand_name": "Tidak Ada Merek",
+          "core": {
+            "country": "ID",
+            "currencyCode": "IDR",
+            "language": "in",
+            "layoutType": "desktop"
+          },
+          "page": {
+            "regCategoryId": "",
+            "xParams": "_p_typ=pdp&_p_ispdp=1&_p_item=7336022462_ID-13737050199&_p_prod=7336022462&_p_sku=13737050199&_p_slr=401008224928"
+          },
+          "pagetype": "pdp",
+          "pdt_category": [
+            "Handphone & Tablet",
+            "Feature Phones"
+          ],
+          "pdt_discount": "-68%",
+          "pdt_name": "OPPO A16 Termurah Garansi Toko ram 6/128GB, 8MP+13MP kamera 6.52 inches",
+          "pdt_photo": "//id-test-11.slatic.net/p/301227d68408dabf7117617cd9e7ef77.png",
+          "pdt_price": "Rp2.398.000",
+          "pdt_simplesku": 13737050199,
+          "pdt_sku": 7336022462,
+          "seller_name": "Only One Cell",
+          "supplier_id": 401008224928,
+          "v_voya": 1
+        },
+        "image": "//id-test-11.slatic.net/p/301227d68408dabf7117617cd9e7ef77.png",
+        "inWishlist": false,
+        "itemId": "7336022462",
+        "operation": {
+          "disable": false,
+          "operationWeight": 6,
+          "text": "Tambah ke Troli",
+          "type": "default"
+        },
+        "operations": [
+          {
+            "disable": false,
+            "operationWeight": 2,
+            "text": "Beli Sekarang",
+            "type": "buyNow",
+            "url": "https://checkout.lazada.co.id/shipping"
+          },
+          {
+            "disable": false,
+            "operationWeight": 6,
+            "text": "Tambah ke Troli",
+            "type": "default"
+          }
+        ],
+        "preSaleTag": false,
+        "price": {
+          "discount": "-68%",
+          "originalPrice": {
+            "text": "Rp2.398.000",
+            "value": 2398000
+          },
+          "salePrice": {
+            "text": "Rp764.924",
+            "value": 764924
+          },
+          "useOldPriceDisplayLogic": false
+        },
+        "promotionTopBannerUrl": "https://lzd-img-global.slatic.net/us/lazgcp/143bc58e-ec33-496d-94d8-895ae17d7e27_ALL-480-72.jpg#width=480&height=72",
+        "quantity": {
+          "limit": {
+            "max": 5,
+            "min": 1
+          },
+          "type": "default"
+        },
+        "quantityList": [
+          {
+            "limit": {
+              "max": 5,
+              "min": 1
+            },
+            "type": "default"
+          }
+        ],
+        "sellerId": "401008224928",
+        "skuId": "13737050199",
+        "stock": 563,
+        "stockList": [
+          {
+            "stoock": 563,
+            "type": "default"
+          }
+        ]
+      },
+      "13737050200": {
+        "categoryId": "42006401",
+        "dataLayer": {
+          "brand_id": "124058447",
+          "brand_name": "Tidak Ada Merek",
+          "core": {
+            "country": "ID",
+            "currencyCode": "IDR",
+            "language": "in",
+            "layoutType": "desktop"
+          },
+          "page": {
+            "regCategoryId": "",
+            "xParams": "_p_typ=pdp&_p_ispdp=1&_p_item=7336022462_ID-13737050200&_p_prod=7336022462&_p_sku=13737050200&_p_slr=401008224928"
+          },
+          "pagetype": "pdp",
+          "pdt_category": [
+            "Handphone & Tablet",
+            "Feature Phones"
+          ],
+          "pdt_discount": "-68%",
+          "pdt_name": "OPPO A16 Termurah Garansi Toko ram 6/128GB, 8MP+13MP kamera 6.52 inches",
+          "pdt_photo": "//id-test-11.slatic.net/p/ed5f4f91c23a08d474fa11a57e8527db.png",
+          "pdt_price": "Rp2.398.000",
+          "pdt_simplesku": 13737050200,
+          "pdt_sku": 7336022462,
+          "seller_name": "Only One Cell",
+          "supplier_id": 401008224928,
+          "v_voya": 1
+        },
+        "image": "//id-test-11.slatic.net/p/ed5f4f91c23a08d474fa11a57e8527db.png",
+        "inWishlist": false,
+        "itemId": "7336022462",
+        "operation": {
+          "disable": false,
+          "operationWeight": 6,
+          "text": "Tambah ke Troli",
+          "type": "default"
+        },
+        "operations": [
+          {
+            "disable": false,
+            "operationWeight": 2,
+            "text": "Beli Sekarang",
+            "type": "buyNow",
+            "url": "https://checkout.lazada.co.id/shipping"
+          },
+          {
+            "disable": false,
+            "operationWeight": 6,
+            "text": "Tambah ke Troli",
+            "type": "default"
+          }
+        ],
+        "preSaleTag": false,
+        "price": {
+          "discount": "-68%",
+          "originalPrice": {
+            "text": "Rp2.398.000",
+            "value": 2398000
+          },
+          "salePrice": {
+            "text": "Rp764.924",
+            "value": 764924
+          },
+          "useOldPriceDisplayLogic": false
+        },
+        "promotionTopBannerUrl": "https://lzd-img-global.slatic.net/us/lazgcp/143bc58e-ec33-496d-94d8-895ae17d7e27_ALL-480-72.jpg#width=480&height=72",
+        "quantity": {
+          "limit": {
+            "max": 5,
+            "min": 1
+          },
+          "type": "default"
+        },
+        "quantityList": [
+          {
+            "limit": {
+              "max": 5,
+              "min": 1
+            },
+            "type": "default"
+          }
+        ],
+        "sellerId": "401008224928",
+        "skuId": "13737050200",
+        "stock": 804,
+        "stockList": [
+          {
+            "stoock": 804,
+            "type": "default"
+          }
+        ]
+      }
+    },
+    "specifications": {
+      "13737050198": {
+        "boxContent": "handphone",
+        "features": {
+          "Garansi": "1 Tahun",
+          "Kapasitas Baterai (mAh)": "4000 - 4999 mAh",
+          "Merek": "Tidak Ada Merek",
+          "Plug Type": "Tipe C",
+          "SKU": "7336022462_ID-13737050198",
+          "Ukuran Layar (inci)": "6.52\"",
+          "condition": "Baru",
+          "model": "A16",
+          "network_connections": "Jaringan GSM,3G,4G - LTE,3G - UMTS",
+          "operating_system": "Android",
+          "operating_system_version": "Android",
+          "phone_features": "Wifi,GPS,Memori Bisa Ditambahkan,Sensor Sidik Jari,Layar Sentuh",
+          "phone_type": "Ponsel Cerdas",
+          "power_consumption": "4000-5000",
+          "ram_memory": "6GB",
+          "resolution": "HD",
+          "screen_type": "LCD",
+          "sim_slots": "2",
+          "type_of_battery": "Li-ion",
+          "video_resolution": "1080p",
+          "warranty_type": "Penjual Garansi"
+        }
+      },
+      "13737050199": {
+        "boxContent": "handphone",
+        "features": {
+          "Garansi": "1 Tahun",
+          "Kapasitas Baterai (mAh)": "4000 - 4999 mAh",
+          "Merek": "Tidak Ada Merek",
+          "Plug Type": "Tipe C",
+          "SKU": "7336022462_ID-13737050199",
+          "Ukuran Layar (inci)": "6.52\"",
+          "condition": "Baru",
+          "model": "A16",
+          "network_connections": "Jaringan GSM,3G,4G - LTE,3G - UMTS",
+          "operating_system": "Android",
+          "operating_system_version": "Android",
+          "phone_features": "Wifi,GPS,Memori Bisa Ditambahkan,Sensor Sidik Jari,Layar Sentuh",
+          "phone_type": "Ponsel Cerdas",
+          "power_consumption": "4000-5000",
+          "ram_memory": "6GB",
+          "resolution": "HD",
+          "screen_type": "LCD",
+          "sim_slots": "2",
+          "type_of_battery": "Li-ion",
+          "video_resolution": "1080p",
+          "warranty_type": "Penjual Garansi"
+        }
+      },
+      "13737050200": {
+        "boxContent": "handphone",
+        "features": {
+          "Garansi": "1 Tahun",
+          "Kapasitas Baterai (mAh)": "4000 - 4999 mAh",
+          "Merek": "Tidak Ada Merek",
+          "Plug Type": "Tipe C",
+          "SKU": "7336022462_ID-13737050200",
+          "Ukuran Layar (inci)": "6.52\"",
+          "condition": "Baru",
+          "model": "A16",
+          "network_connections": "Jaringan GSM,3G,4G - LTE,3G - UMTS",
+          "operating_system": "Android",
+          "operating_system_version": "Android",
+          "phone_features": "Wifi,GPS,Memori Bisa Ditambahkan,Sensor Sidik Jari,Layar Sentuh",
+          "phone_type": "Ponsel Cerdas",
+          "power_consumption": "4000-5000",
+          "ram_memory": "6GB",
+          "resolution": "HD",
+          "screen_type": "LCD",
+          "sim_slots": "2",
+          "type_of_battery": "Li-ion",
+          "video_resolution": "1080p",
+          "warranty_type": "Penjual Garansi"
+        }
+      }
+    },
+    "tracking": {
+      "brand_id": "124058447",
+      "brand_name": "Tidak Ada Merek",
+      "core": {
+        "country": "ID",
+        "currencyCode": "IDR",
+        "language": "in",
+        "layoutType": "desktop"
+      },
+      "page": {
+        "regCategoryId": "",
+        "xParams": "_p_typ=pdp&_p_ispdp=1&_p_item=7336022462_ID-13737050200&_p_prod=7336022462&_p_sku=13737050200&_p_slr=401008224928"
+      },
+      "pagetype": "pdp",
+      "pdt_category": [
+        "Handphone & Tablet",
+        "Feature Phones"
+      ],
+      "pdt_discount": "-68%",
+      "pdt_name": "OPPO A16 Termurah Garansi Toko ram 6/128GB, 8MP+13MP kamera 6.52 inches",
+      "pdt_photo": "//id-test-11.slatic.net/p/ed5f4f91c23a08d474fa11a57e8527db.png",
+      "pdt_price": "Rp2.398.000",
+      "pdt_simplesku": 13737050200,
+      "pdt_sku": 7336022462,
+      "seller_name": "Only One Cell",
+      "supplier_id": 401008224928,
+      "v_voya": 1
+    },
+    "user": {
+      "anonymousId": "64b19656-0eec-4c30-9d27-3513fc0396cb",
+      "defaultLocation": {
+        "address": "DKI Jakarta, Kota Jakarta Barat, Cengkareng",
+        "canChange": true,
+        "country": "ID",
+        "isPostcode": false,
+        "postCode": ""
+      },
+      "isLiveUp": false,
+      "login": false,
+      "loginUrl": "//member.lazada.co.id/user/login",
+      "loyalty": false,
+      "noGuest": true,
+      "userId": "0"
+    },
+    "vouchers": {
+      "13737050198": {
+        "params": {
+          "checkCode": "1b29ec24c08ec4aa1426c353643773e7",
+          "itemId": "7336022462",
+          "lzd": "F4CC8C5CA9D2B7738E68465A341344EC01362E17FA29672F7E7481BA6EC27431E427823EA707088DD2D1A9A861077434E5BC6C25A524C52529AFE9DC6220875AE21A108293B12336758A8B7D14B9D7CDDD55B28306D4766CDD55B28306D4766C",
+          "skuId": "13737050198",
+          "timeStamp": "1709177868825"
+        },
+        "titleContentMore": {
+          "content": "Belanja Rp600.000 ",
+          "hasAtmosphere": false,
+          "jumpURL": "",
+          "numberOfLine": 0,
+          "title": "Voucher"
+        },
+        "voucherPreview": {
+          "moreIconUrl": "https://laz-img-cdn.alicdn.com/tfs/TB1hsCcsQPoK1RjSZKbXXX1IXXa-124-64.png",
+          "previewList": [
+            "Rp6rb off",
+            "Rp15rb off"
+          ]
+        }
+      },
+      "13737050199": {
+        "params": {
+          "checkCode": "1b29ec24c08ec4aa1426c353643773e7",
+          "itemId": "7336022462",
+          "lzd": "F4CC8C5CA9D2B7738E68465A341344EC01362E17FA29672F7E7481BA6EC274313DBFDFEF03E801F6D2D1A9A861077434E5BC6C25A524C52529AFE9DC6220875AE21A108293B12336758A8B7D14B9D7CDDD55B28306D4766CDD55B28306D4766C",
+          "skuId": "13737050199",
+          "timeStamp": "1709177868825"
+        },
+        "titleContentMore": {
+          "content": "Belanja Rp600.000 ",
+          "hasAtmosphere": false,
+          "jumpURL": "",
+          "numberOfLine": 0,
+          "title": "Voucher"
+        },
+        "voucherPreview": {
+          "moreIconUrl": "https://laz-img-cdn.alicdn.com/tfs/TB1hsCcsQPoK1RjSZKbXXX1IXXa-124-64.png",
+          "previewList": [
+            "Rp6rb off",
+            "Rp15rb off"
+          ]
+        }
+      },
+      "13737050200": {
+        "params": {
+          "checkCode": "1b29ec24c08ec4aa1426c353643773e7",
+          "itemId": "7336022462",
+          "lzd": "3F311BB630BF7494846CE5D16A2AE9EB91D65B703A12B2051D748DC31D338873563E76C0BFFDB04E44810C700E3651FEA14F10CE474B9E24A63F07F1757D0D536D65F634DA03C296BB1A8C8C9B4905F95E7A970176242DF85E7A970176242DF8",
+          "skuId": "13737050200",
+          "timeStamp": "1709177868825"
+        },
+        "titleContentMore": {
+          "content": "Belanja Rp600.000 ",
+          "hasAtmosphere": false,
+          "jumpURL": "",
+          "numberOfLine": 0,
+          "title": "Voucher"
+        },
+        "voucherPreview": {
+          "moreIconUrl": "https://laz-img-cdn.alicdn.com/tfs/TB1hsCcsQPoK1RjSZKbXXX1IXXa-124-64.png",
+          "previewList": [
+            "Rp6rb off",
+            "Rp15rb off"
+          ]
+        }
+      }
+    },
+    "warranties": {
+      "13737050198": [
+        {
+          "dataType": "change_mind_available",
+          "description": "Pengembalian produk dengan alasan \"berubah pikiran\" berlaku untuk produk ini, kamu dapat melihat informasi mengenai kategori produk dan ketentuan kondisi produk <a href=\"https://s.lazada.co.id/s.ktEN6\">[di sini]</a>",
+          "leftImage": "https://laz-img-cdn.alicdn.com/imgextra/i4/O1CN01HLFg791eRalDVt0XN_!!6000000003868-2-tps-54-54.png",
+          "title": "Berubah Pikiran",
+          "type": "change_mind_available"
+        },
+        {
+          "dataType": "returnPolicy",
+          "description": "Pengajuan pengembalian barang dapat dilakukan sampai dengan 3x24 jam sejak barang diterima. Jika masih membutuhkan waktu, kamu bisa lakukan perpanjangan dengan tambahan 4x24 jam.\n\nIsi formulir pengembalian barang, Penjual akan memeriksa dan merespon pengajuan pengembalian barang kamu.",
+          "title": "Garansi Pengembalian Barang",
+          "type": "returnPolicy7"
+        },
+        {
+          "dataType": "warranty",
+          "description": "Harus ada video unboxing",
+          "title": "1 Tahun Penjual Garansi",
+          "type": "warranty"
+        }
+      ],
+      "13737050199": [
+        {
+          "dataType": "change_mind_available",
+          "description": "Pengembalian produk dengan alasan \"berubah pikiran\" berlaku untuk produk ini, kamu dapat melihat informasi mengenai kategori produk dan ketentuan kondisi produk <a href=\"https://s.lazada.co.id/s.ktEN6\">[di sini]</a>",
+          "leftImage": "https://laz-img-cdn.alicdn.com/imgextra/i4/O1CN01HLFg791eRalDVt0XN_!!6000000003868-2-tps-54-54.png",
+          "title": "Berubah Pikiran",
+          "type": "change_mind_available"
+        },
+        {
+          "dataType": "returnPolicy",
+          "description": "Pengajuan pengembalian barang dapat dilakukan sampai dengan 3x24 jam sejak barang diterima. Jika masih membutuhkan waktu, kamu bisa lakukan perpanjangan dengan tambahan 4x24 jam.\n\nIsi formulir pengembalian barang, Penjual akan memeriksa dan merespon pengajuan pengembalian barang kamu.",
+          "title": "Garansi Pengembalian Barang",
+          "type": "returnPolicy7"
+        },
+        {
+          "dataType": "warranty",
+          "description": "Harus ada video unboxing",
+          "title": "1 Tahun Penjual Garansi",
+          "type": "warranty"
+        }
+      ],
+      "13737050200": [
+        {
+          "dataType": "change_mind_available",
+          "description": "Pengembalian produk dengan alasan \"berubah pikiran\" berlaku untuk produk ini, kamu dapat melihat informasi mengenai kategori produk dan ketentuan kondisi produk <a href=\"https://s.lazada.co.id/s.ktEN6\">[di sini]</a>",
+          "leftImage": "https://laz-img-cdn.alicdn.com/imgextra/i4/O1CN01HLFg791eRalDVt0XN_!!6000000003868-2-tps-54-54.png",
+          "title": "Berubah Pikiran",
+          "type": "change_mind_available"
+        },
+        {
+          "dataType": "returnPolicy",
+          "description": "Pengajuan pengembalian barang dapat dilakukan sampai dengan 3x24 jam sejak barang diterima. Jika masih membutuhkan waktu, kamu bisa lakukan perpanjangan dengan tambahan 4x24 jam.\n\nIsi formulir pengembalian barang, Penjual akan memeriksa dan merespon pengajuan pengembalian barang kamu.",
+          "title": "Garansi Pengembalian Barang",
+          "type": "returnPolicy7"
+        },
+        {
+          "dataType": "warranty",
+          "description": "Harus ada video unboxing",
+          "title": "1 Tahun Penjual Garansi",
+          "type": "warranty"
+        }
+      ]
+    }
+  },
+  "tip": "You can read document or contact provider: https://www.idatariver.com/project/lazada-e-commerce-scraping-api-12fb"
+}
